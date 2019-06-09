@@ -6,4 +6,4 @@ management:
         include: "*"
 
 fortune:
-  fallbackFortune: The future is cloudy!
+  fallbackFortune: The future is getting clearer!
