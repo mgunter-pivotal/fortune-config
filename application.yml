@@ -6,4 +6,4 @@ management:
         include: "*"
 
 fortune:
-  fallbackFortune: The future is so bright you gotta wear Shades!
+  fallbackFortune: The future is fuzzy but getting clearer!
